@@ -62,18 +62,17 @@ This dashboard tracks top drivers’ total points, podium finishes, and seasonal
 **2. Constructor (Team) Success**
 Focused on team-level performance, this dashboard visualizes total wins, points per season, ranking shifts, and driver contributions. A KPI panel highlights each constructor’s historical stats and identifies the top contributing driver dynamically.
 
-![dashboard-visual](<img width="468" alt="image" src="https://github.com/user-attachments/assets/d847729c-6cc8-4234-8906-a2cda1c461fc" />
-)
+![dashboard-visual]("https://github.com/user-attachments/assets/d847729c-6cc8-4234-8906-a2cda1c461fc")
 
 **3. Race and Circuit Overview**
 This visual module highlights Grand Prix events across global circuits. Users can explore the most frequently hosted races, track circuits by location, and view race frequency trends. It reveals insights into circuit popularity and regional race distributions.
 
-![dashboard-visual](https://github.com/user-attachments/assets/c57e84f2-7079-4dfc-9e3a-f33dcc855dd8>)
+![dashboard-visual](https://github.com/user-attachments/assets/c57e84f2-7079-4dfc-9e3a-f33dcc855dd8)
 
 **4. F1 Qualifying Insights**
 This dashboard provides an analytical view of qualifying outcomes, spotlighting average starting grid positions, pole winners, and nationality trends. It allows fans and strategists to understand how qualifying positions influence race-day outcomes.
 
-![dashboard-visual](https://github.com/user-attachments/assets/3e3d13f2-6cb7-498d-bfef-eb9ed6dcfa31>)
+![dashboard-visual](https://github.com/user-attachments/assets/3e3d13f2-6cb7-498d-bfef-eb9ed6dcfa31)
 
 ---
 
