@@ -49,7 +49,7 @@ This unified approach not only streamlines exploration but enhances strategic an
 --- 
 
 ## 🧩 Dataset Description
-The data for this project was sourced from the Formula 1 World Championship dataset published by Rohan Rao on **Kaggle (https://www.kaggle.com/datasets/rohanrao/formula-1-world-championship-1950-2020/data)**. This dataset compiles comprehensive historical Formula 1 data from 1950 to 2024, originally extracted and curated from the official Ergast Developer API, a well-known and regularly updated public database of F1 race results and statistics.
+The data for this project was sourced from the Formula 1 World Championship dataset published by Rohan Rao on **[Kaggle](https://www.kaggle.com/datasets/rohanrao/formula-1-world-championship-1950-2020/data)**. This dataset compiles comprehensive historical Formula 1 data from 1950 to 2024, originally extracted and curated from the official Ergast Developer API, a well-known and regularly updated public database of F1 race results and statistics.
 
 ---
 
