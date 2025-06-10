@@ -109,7 +109,7 @@ This dashboard provides an analytical view of qualifying outcomes, spotlighting 
 ---
 
 ## 📚 Reports
-[Project Report (PDF)]() – Complete documentation of project steps, discoveries, and methodology.
+[Project Report (PDF)](https://github.com/DK-3333/F1-Data-Analytics/blob/main/Project_Report.pdf) – Complete documentation of project steps, discoveries, and methodology.
 
 Includes detailed analysis of KPIs, visual interpretation, and preprocessing approach.
 
