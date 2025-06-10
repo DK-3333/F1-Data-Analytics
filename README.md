@@ -57,26 +57,22 @@ The data for this project was sourced from the Formula 1 World Championship data
 **1. Driver Performance over Seasons (2000–2024)**
 This dashboard tracks top drivers’ total points, podium finishes, and seasonal consistency over the modern F1 era. Interactive filters allow users to view driver trajectories, compare performance across eras, and understand key contributors to team success.
 
-![dashboard-visual](https://github.com/user-attachments/assets/81b22e7c-51d5-4fbd-b8cb-f5897a6a1dbe"
-)
+![dashboard-visual](https://github.com/user-attachments/assets/81b22e7c-51d5-4fbd-b8cb-f5897a6a1dbe)
 
 **2. Constructor (Team) Success**
 Focused on team-level performance, this dashboard visualizes total wins, points per season, ranking shifts, and driver contributions. A KPI panel highlights each constructor’s historical stats and identifies the top contributing driver dynamically.
 
-![dashboard-visual](https://github.com/user-attachments/assets/7680d8d3-9d30-4492-a08d-d63976625701
-)
+![dashboard-visual](https://github.com/user-attachments/assets/7680d8d3-9d30-4492-a08d-d63976625701)
 
 **3. Race and Circuit Overview**
 This visual module highlights Grand Prix events across global circuits. Users can explore the most frequently hosted races, track circuits by location, and view race frequency trends. It reveals insights into circuit popularity and regional race distributions.
 
-![dashboard-visual](https://github.com/user-attachments/assets/0a69d24f-3714-4522-9ad6-7048f5e33492
-)
+![dashboard-visual](https://github.com/user-attachments/assets/0a69d24f-3714-4522-9ad6-7048f5e33492)
 
 **4. F1 Qualifying Insights**
 This dashboard provides an analytical view of qualifying outcomes, spotlighting average starting grid positions, pole winners, and nationality trends. It allows fans and strategists to understand how qualifying positions influence race-day outcomes.
 
-![dashboard-visual](https://github.com/user-attachments/assets/86aaab11-0198-4f97-abbe-997c621f1dd5>
-)
+![dashboard-visual](https://github.com/user-attachments/assets/86aaab11-0198-4f97-abbe-997c621f1dd5)
 
 ---
 
