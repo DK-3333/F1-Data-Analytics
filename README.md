@@ -53,43 +53,66 @@ The data for this project was sourced from the Formula 1 World Championship data
 
 ---
 
---- 
-
 ## 📊 Sample Visuals
-![EER Diagram](https://github.com/user-attachments/assets/dc9e90c6-a193-4375-bc04-4e05d89d9931)
+**1. Driver Performance over Seasons (2000–2024)**
+This dashboard tracks top drivers’ total points, podium finishes, and seasonal consistency over the modern F1 era. Interactive filters allow users to view driver trajectories, compare performance across eras, and understand key contributors to team success.
 
-![relationaldb diagram](https://github.com/user-attachments/assets/302c1bc3-618a-451f-93c6-5e45e8dd9f13)
+![dashboard-visual](https://github.com/user-attachments/assets/2faad78b-e46b-4179-a493-cfbee81ba9fa)
 
-![graphdb diagram](https://github.com/user-attachments/assets/1da131fe-2d7f-40eb-b2c8-75923a96951b)
+**2. Constructor (Team) Success**
+Focused on team-level performance, this dashboard visualizes total wins, points per season, ranking shifts, and driver contributions. A KPI panel highlights each constructor’s historical stats and identifies the top contributing driver dynamically.
+
+![dashboard-visual](<img width="468" alt="image" src="https://github.com/user-attachments/assets/d847729c-6cc8-4234-8906-a2cda1c461fc" />
+)
+
+**3. Race and Circuit Overview**
+This visual module highlights Grand Prix events across global circuits. Users can explore the most frequently hosted races, track circuits by location, and view race frequency trends. It reveals insights into circuit popularity and regional race distributions.
+
+![dashboard-visual](https://github.com/user-attachments/assets/c57e84f2-7079-4dfc-9e3a-f33dcc855dd8>)
+
+**4. F1 Qualifying Insights**
+This dashboard provides an analytical view of qualifying outcomes, spotlighting average starting grid positions, pole winners, and nationality trends. It allows fans and strategists to understand how qualifying positions influence race-day outcomes.
+
+![dashboard-visual](https://github.com/user-attachments/assets/3e3d13f2-6cb7-498d-bfef-eb9ed6dcfa31>)
 
 ---
 
 ## 🔍 Technologies Used
 
-| Technology         | Purpose                                                                 |
-|--------------------|-------------------------------------------------------------------------|
-| **MySQL Workbench** | Relational database design and query execution                         |
-| **Neo4j Desktop**   | Graph database modeling using Cypher                                   |
-| **Draw.io**         | Conceptual modeling and EER diagram design                             |
-| **CSV**             | Intermediate data format for import/export between systems             |
-| **SQL & Cypher**    | Query languages used for data operations and analysis                  |
+| **Technology**         | **Purpose**                                                                 |
+|------------------------|------------------------------------------------------------------------------|
+| **Python (Pandas, NumPy)** | Data preprocessing, cleaning, transformation, and structured data modeling       |
+| **Tableau Desktop**    | Building interactive dashboards and performing visual data analysis         |
+| **Tableau Prep Builder** | Visual data preparation and flow-based data integration (initial plan stage) |
+| **CSV Files**          | Source data format used for importing race, driver, and constructor data     |
+| **Data Joins in Tableau** | Establishing data relationships via primary keys (raceId, constructorId, etc.) |
+| **Calculated Fields in Tableau** | Creating KPIs and custom metrics like driver contribution %, seasonal wins |
+
 
 ---
 
 ## 💡 Key Takeaways
 
-- Gained practical experience in database normalization, schema refinement, and constraint handling.
-- Learned how to translate relational models into property graph models for better real-world data mapping.
-- Understood performance trade-offs and schema simplification techniques between database types.
+- **Descriptive Analytics in Action**: This project showcases how descriptive analytics can extract meaningful patterns from large-scale motorsport data, offering performance insights across multiple dimensions—teams, drivers, circuits, and seasons.
+
+- **Constructor-Level Insights**: Analysis of team success over time revealed how dominance shifts between constructors like Ferrari, Mercedes, and Red Bull—helping fans and analysts track performance evolution.
+
+- **Driver Contribution Metrics**: The dashboard quantifies driver impact on team points, highlighting key contributors like Lewis Hamilton and Max Verstappen, and demonstrating how individual excellence drives collective success.
+
+- **Interactive Visualization Power**: With Tableau’s filtering, sorting, and drill-down capabilities, end users can explore the data from different perspectives without needing to write code or SQL.
+
+- **Scalable Data Integration**: By joining multiple datasets through structured keys (e.g., `raceId`, `constructorId`), the project creates a unified model ready for high-quality reporting and KPI generation.
+
+- **Informed Decision-Making**: Whether for a team strategist, journalist, or F1 fan, the dashboards offer a decision support system that combines clarity with depth.
+
+
 
 ---
 
 ## 📚 Reports
-Each phase contains a detailed report, diagrams, code snippets, and reflections on modeling decisions:
+[Project Report (PDF)]() – Complete documentation of project steps, discoveries, and methodology.
 
-- [Phase-1.report](https://github.com/DK-3333/Travel-Reimbursement-System/blob/main/Phase-1/Phase-1_report.pdf)
-- [Phase-2.report](https://github.com/DK-3333/Travel-Reimbursement-System/blob/main/Phase-2/Phase-2_report.pdf)
-- [Phase-3.report](https://github.com/DK-3333/Travel-Reimbursement-System/blob/main/Phase-3/Phase-3_report.pdf)
+Includes detailed analysis of KPIs, visual interpretation, and preprocessing approach.
 
 ---
 
